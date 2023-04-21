@@ -1,8 +1,8 @@
-
-Origin: Ak-47Twex
-Label: Ak-47Twex
+Origin: PoomSmart's Repo
+Label: PoomSmart's Repo
 Suite: stable
-Version: 1.0
+Version: 1.1
+Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: Tweaks for xina jb working 100%
+Description: PoomSmart's Repository
