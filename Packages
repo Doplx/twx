@@ -20,7 +20,7 @@ Package: com.tigisoftware.appdatamanager
 Priority: optional
 Depends: firmware (>= 7.0)
 Version: 1.8.2-5
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Description: Appsmanagerمدير التطبيقات
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Author: TIGI Software <satashi2009@gmail.com>
@@ -72,7 +72,7 @@ Author: MiRO <tweaks_support@miro92.com>
 Section: Tweaks
 Tag: purpose::extension, compatible_min::ios13
 Icon: file:////Library/Application Support/uYouBundle.bundle/icon_clipped.png
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Version: 3.0
 Installed-Size: 31200
 Depictions: https://doplx.github.io/Twx/
@@ -101,7 +101,7 @@ Depiction: https://opa334.github.io/depic/Choicy/index.html
 Maintainer: opa334 <opa334@protonmail.com>
 Author: opa334 <opa334@protonmail.com>
 Section: Tweaks
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Version: 1.4.7
 Installed-Size: 1076
 Depictions: https://doplx.github.io/Twx/
