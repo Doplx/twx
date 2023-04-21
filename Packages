@@ -1,0 +1,26 @@
+
+Package: ch.mdaus.latchkey
+Name: LatchKey
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm64
+Description: Move and theme the Face-ID lock glyph 
+Depiction: https://repo.daus.ch/depictions/?p=ch.mdaus.latchkey
+Maintainer: Maxwell Dausch <max.dausch@gmail.com>
+Author: Maxwell Dausch <max.dausch@gmail.com>
+Section: Tweaks
+Version: 2.3
+Installed-Size: 13440
+Filename: debs/ch.mdaus.latchkey_2.3_iphoneos-arm64.deb
+
+Package: com.0xaya.8ballpoolhack
+Name: 8 Ball Pool™ by Miniclip.com Mod Menu
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Description: 8 Ball Pool™ by Miniclip.com Mod Menu by 0xAya!
+Maintainer: 0xAya
+Author: 0xAya
+Section: Tweaks
+Homepage: https://iosgods.com
+Version: 1.0
+Installed-Size: 256
+Filename: debs/com.0xaya.8ballpoolhack_1.0_iphoneos-arm64.deb
