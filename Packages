@@ -1,26 +1,108 @@
 
-Package: ch.mdaus.latchkey
-Name: LatchKey
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Package: com.spark.snowboard
+Name: SnowBoard🟢أداة خاصة بالثيمات 
+Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm64
-Description: Move and theme the Face-ID lock glyph 
-Depiction: https://repo.daus.ch/depictions/?p=ch.mdaus.latchkey
-Maintainer: Maxwell Dausch <max.dausch@gmail.com>
-Author: Maxwell Dausch <max.dausch@gmail.com>
+Description: Snowboard theming engineأداة خاصة بالثيمات
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Maintainer: Spark
+Author: Spark & Dennis D. Bednarz
 Section: Tweaks
-Version: 2.3
-Installed-Size: 13440
-Filename: debs/ch.mdaus.latchkey_2.3_iphoneos-arm64.deb
+Version: 1.5.9-Beta3-rootless
+Installed-Size: 3188
+Depictions: https://doplx.github.io/Twx/
+Filename: debs/1.5.9-Beta3-rootless.deb
 
-Package: com.0xaya.8ballpoolhack
-Name: 8 Ball Pool™ by Miniclip.com Mod Menu
-Depends: mobilesubstrate
-Architecture: iphoneos-arm64
-Description: 8 Ball Pool™ by Miniclip.com Mod Menu by 0xAya!
-Maintainer: 0xAya
-Author: 0xAya
+Name: Apps Manager🃏مدير التطبيقات
+Package: com.tigisoftware.appdatamanager
+Priority: optional
+Depends: firmware (>= 7.0)
+Version: 1.8.2-5
+Architecture: iphoneos-arm
+Description: Appsmanagerمدير التطبيقات
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: TIGI Software <satashi2009@gmail.com>
 Section: Tweaks
-Homepage: https://iosgods.com
-Version: 1.0
-Installed-Size: 256
-Filename: debs/com.0xaya.8ballpoolhack_1.0_iphoneos-arm64.deb
+Tag: purpose::uikit
+Installed-Size: 9121
+dev: satashi2009
+Icon: file:///Applications/ADManager.app/AppIcon60x60@2x.png
+Depictions: https://doplx.github.io/Twx/
+Filename: debs/appsmanager_1.8.2-5.deb
+
+Package: com.lizynz.folderx.rootless
+Name: FolderXللتعديل على المجلدات
+Depends: mobilesubstrate, firmware(>=15.0), com.ichitaso.iconorder
+Conflicts: com.twickd.sirius24.folderplus, xyz.burritoz.thomz.folded, com.yourepo.i0s-tweak3r-betas.foldercontroller14, ca.ndoizo.bolders, com.4nni3.coolfolder, com.lizynz.foldercolor, com.ginsu.4ders, com.iadam1n.statusfolder, gsc.ipad
+Architecture: iphoneos-arm64
+Description: Allows you to configure foldersالتعديل على المجلدات
+SileoDepiction: https://lizynz.github.io/depictions/com.lizynz.folderx/FolderX.json
+Maintainer: Lizynz <lizynz@ya.ru>
+Author: Lizynz <lizynz@ya.ru>
+Section: Tweaks
+Version: 1.0.1
+Installed-Size: 600
+Depictions: https://doplx.github.io/Twx/
+Filename: debs/com.lizynz.folderx.rootless_1.0.1_iphoneos-arm64.deb
+
+Package: com.miro.libmiro
+Name: libMiRO
+Depends: firmware (>=14.0), com.rpetrich.rocketbootstrap
+Description: Shared library for my tweaks.
+Maintainer: MiRO <tweaks_support@miro92.com>
+Author: MiRO <tweaks_support@miro92.com>
+Section: Development
+Tag: role::developer, compatible_min::ios14
+Architecture: iphoneos-arm64
+Version: 1.1
+Installed-Size: 1736
+Depictions: https://doplx.github.io/Twx/
+Filename: debs/com.miro.libmiro_1.1_iphoneos-arm64.deb
+
+Package: com.miro.uyou
+Name: uYouإضافة ميزات لليوتيوب
+Depends: firmware (>=13.0), mobilesubstrate, com.miro.uyouimport
+Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere, com.miro.uyourootless
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyou
+Description: The best tweak for the YouTube appإضافة ميزات لليوتيوب
+Maintainer: MiRO <tweaks_support@miro92.com>
+Author: MiRO <tweaks_support@miro92.com>
+Section: Tweaks
+Tag: purpose::extension, compatible_min::ios13
+Icon: file:////Library/Application Support/uYouBundle.bundle/icon_clipped.png
+Architecture: iphoneos-arm
+Version: 3.0
+Installed-Size: 31200
+Depictions: https://doplx.github.io/Twx/
+Filename: debs/com.miro.uyou_3.0_iphoneos-arm.deb
+
+Architecture: iphoneos-arm64
+Package: com.nahtedetihw.stepup-rootless
+Name: StepUpخفض/رفع مستوى الصوت
+Version: 1.2
+Icon: https://nahtedetihw.github.io/assets/com.nahtedetihw.stepup-rootless/icon.png
+Description: Change the amount of steps for volume!خفض او رفع مستوى الصور
+Section: Tweaks
+Tags: compatible_min::ios13.0, compatible_max::ios16.4
+Author: ETHN <ethanwhited2208@gmail.com>
+Maintainer: ETHN <ethanwhited2208@gmail.com>
+Tag: role::enduser
+SomeOtherEntryToControl: True
+Depictions: https://doplx.github.io/Twx/
+Filename: debs/com.nahtedetihw.stepup-rootless.deb
+
+Package: com.opa334.choicy
+Name: Choicyتشغيل التطبيقات بدون حقن أدوات
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Description: Advanced Tweak Configuration!تشغيل التطبيقات بدون حقن ادوات 
+Depiction: https://opa334.github.io/depic/Choicy/index.html
+Maintainer: opa334 <opa334@protonmail.com>
+Author: opa334 <opa334@protonmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm
+Version: 1.4.7
+Installed-Size: 1076
+Depictions: https://doplx.github.io/Twx/
+Filename: debs/com.opa334.choicy_1.4.7_iphoneos-arm.deb
