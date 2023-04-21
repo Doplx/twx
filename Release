@@ -1,8 +1,8 @@
-Origin: PoomSmart's Repo
-Label: PoomSmart's Repo
+Origin: Doplx Repo
+Label: Doplx Repo
 Suite: stable
 Version: 1.1
 Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: PoomSmart's Repository
+Description: Doplx Repository
