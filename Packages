@@ -497,7 +497,7 @@ Description: Filza crack كراك مدير الملفات فيلزا
 Homepage: https://tigisoftware.com/cydia/
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/4311.deb
+Filename: debs/netskao.filzacrack-rootless_1.1-8.deb
 
 Package: netskao.appdata-rootless
 Version: 1.4.0
@@ -618,10 +618,10 @@ Maintainer: opa334 <opa334@protonmail.com>
 Author: opa334 <opa334@protonmail.com>
 Section: Tweaks
 Architecture: iphoneos-arm64
-Version: 1.4.7-2
+Version: 1.4.7-3
 Installed-Size: 836
 Depictions: https://doplx.github.io/twx
-Filename: debs/com.opa334.choicy_1.4.7-2_iphoneos-arm64.deb
+Filename: debs/com.opa334.choicy_1.4.7-3_iphoneos-arm64.deb
 SileoDepiction: https://doplx.github.io/twx
 
 Package: com.ps.apppad
