@@ -14,7 +14,7 @@ Author: Ryan Nair
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/textyle.png
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/twx.doplx.textyle3_1.0.0.deb
+filename: debs/twx.doplx.textyle3_1.0.0.deb
 
 Package: twx.doplx.sailydopamine
 Maintainer: Doplx
@@ -29,7 +29,7 @@ Icon: https://sailyteam.github.io/Saily/Resources/icon.png
 Conflicts: wiki.qaq.chromatic
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/xyz.cypwn.dopesaily_2.1-RL_iphoneos-arm64.deb
+filename: debs/xyz.cypwn.dopesaily_2.1-RL_iphoneos-arm64.deb
 
 Package: xyz.cypwn.debra
 Maintainer: CyPwn
@@ -85,7 +85,7 @@ Version: 1.0
 Installed-Size: 2480
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/jp.dcsyhi.zetsurootless15_1.0_iphoneos-arm64.deb
+filename: debs/jp.dcsyhi.zetsurootless15_1.0_iphoneos-arm64.deb
 
 Package: jp.akusio.backgrounderaction15
 Name: BackgrounderAction15إختصار لإستمرار التطبيقات بالخلفية
