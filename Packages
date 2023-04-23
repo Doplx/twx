@@ -1,6 +1,6 @@
 
-Package: xyz.cypwn.dopesaily
-Maintainer: CyPwn
+Package: twx.doplx.sailydopamine
+Maintainer: Doplx
 Name: SailyDopamineتطبيق
 Description: Modern. Fast. Beautiful. Rootless.
 Author: Saily Team
@@ -1045,9 +1045,6 @@ Installed-Size: 256
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
 Filename: debs/zp.preferenceloader_1.0.18_iphoneos-arm64.deb
-MD5sum: 704c56004d2fad73fa4038d8575031d2
-SHA1: a26e3bb32ed49224b9fe9d6ebaa269407401ae1c
-SHA256: c53af410772f36b9462aa5485b2c680591d8149b041c7bd2653bf1a82ed3d7bd
 
 Package: netskao.smallbanners-rootless
 Version: 1.2-5
