@@ -1,4 +1,21 @@
 
+Package: twx.doplx.textyle3
+Section: Tweaks
+Installed-Size: 588
+Maintainer: Doplx
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Replaces: com.ryannair05.textyle
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.altlist
+Conflicts: com.d11z.textyle
+Description: Quickly style any text
+Name: Textyle 3
+Author: Ryan Nair
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/textyle.png
+SileoDepiction: https://doplx.github.io/twx
+Depictions: https://doplx.github.io/twx
+Filename: debs/twx.doplx.textyle3_1.0.0.deb
+
 Package: twx.doplx.sailydopamine
 Maintainer: Doplx
 Name: SailyDopamineتطبيق
