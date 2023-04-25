@@ -11,7 +11,7 @@ Version: 1.1
 Installed-Size: 136
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/xyz.cypwn.icleanerprocrack_1.1_iphoneos-arm64.deb
+filename: ./debs/xyz.cypwn.icleanerprocrack_1.1_iphoneos-arm64.deb
 
 Package: com.exile90.icleanerpro
 Name: iCleaner Pro🃏منظف التطبيقات 
@@ -27,7 +27,7 @@ Replaces: org.altervista.exilecom.icleaner
 Icon: file:///Applications/iCleaner.app/Icon.png
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/com.exile90.icleanerpro_7.10.0_iphoneos-arm64.deb
+filename: ./debs/com.exile90.icleanerpro_7.10.0_iphoneos-arm64.deb
 
 Package: com.jaxroth.supporttheunsupportedrevived
 Name: SupportTheUnsupportedدعم وصلات الشحن المزورة
@@ -41,7 +41,7 @@ Maintainer: Jax Roth
 Description: Allows “unsupported” charging accessoriesدعم وصلات الشحن المزورة
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/com.jaxroth.supporttheunsupportedrevived_1.0.0_iphoneos-arm64.deb
+filename: ./debs/com.jaxroth.supporttheunsupportedrevived_1.0.0_iphoneos-arm64.deb
 
 Author: ExTBH <natheer@extbh.dev>
 Maintainer: BigBoss <bigboss@thebigboss.org>
@@ -57,7 +57,7 @@ dev: extbh
 Tag: purpose::extension
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/jodelemproved_1.1.7_iphoneos-arm64.deb
+filename: ./debs/jodelemproved_1.1.7_iphoneos-arm64.deb
 
 Package: xyz.cypwn.snapper2rootless
 Maintainer: CyPwn
@@ -73,7 +73,7 @@ Author: Jonathan Winger-lang
 Icon: https://media.havoc.app/620537d57c5e627af05611b6
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/xyz.cypwn.snapper2rootless_2.6.0_iphoneos-arm64.deb
+filename: ./debs/xyz.cypwn.snapper2rootless_2.6.0_iphoneos-arm64.deb
 
 Package: netskao.ccswitchdata-rootless
 Version: 1.1-4
@@ -87,7 +87,7 @@ Author: Netskao
 Description: Switch between 4G/5G from conrolCenterالتبديل بين الفورجي والعكس من مركز التحكم
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/4303.deb
+filename: ./debs/4303.deb
 
 Package: netskao.appsmanagercrack
 Version: 1.1-4
@@ -101,7 +101,7 @@ Author: Netskao
 Description: Apps Manager Crack🛠كراك مدير التطبيقات
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/netskao.appsmanagercrack_1.1-4_iphoneos-arm64.deb
+filename: ./debs/netskao.appsmanagercrack_1.1-4_iphoneos-arm64.deb
 
 Package: org.mr.libiarrays-rootless
 Name: libiarrays
@@ -116,7 +116,7 @@ Architecture: iphoneos-arm64
 Icon: https://mrepo.org/CydiaIcon.png
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/5461.deb
+filename: ./debs/5461.deb
 
 Package: com.0xkuj.3dappversionspoofer
 Name: 3DAppVersionSpooferتغير إصدار التطبيقات
@@ -130,7 +130,7 @@ Version: 1.2
 Installed-Size: 396
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/com.0xkuj.3dappversionspoofer_1.2_iphoneos-arm64.deb
+filename: ./debs/com.0xkuj.3dappversionspoofer_1.2_iphoneos-arm64.deb
 
 Architecture: iphoneos-arm64
 Package: com.nahtedetihw.reachplayer-rootless
@@ -147,7 +147,7 @@ Tag: role::enduser
 SomeOtherEntryToControl: True
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/com.nahtedetihw.reachplayer-rootless.deb
+filename: ./debs/com.nahtedetihw.reachplayer-rootless.deb
 
 Architecture: iphoneos-arm64
 Package: com.nahtedetihw.musicartworksave-rootless
@@ -163,7 +163,7 @@ Tag: role::enduser
 SomeOtherEntryToControl: True
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/com.nahtedetihw.musicartworksave-rootless.deb
+filename: ./debs/com.nahtedetihw.musicartworksave-rootless.deb
 
 Name: iKSettingsتعديل مظهر الإعدادات
 Package: pro.ikghd.ikset
@@ -183,7 +183,7 @@ dev: ikghd
 Icon: file:///var/jb/Library/PreferenceBundles/iKSPrefs.bundle/icon@2x.png
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/ikset_3.2_iphoneos-arm64.deb
+filename: ./debs/ikset_3.2_iphoneos-arm64.deb
 
 Package: xyz.cypwn.dpkgfill
 Maintainer: CyPwn
@@ -196,7 +196,7 @@ Author: zhaonan
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_terminal.png
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/xyz.cypwn.dpkgfill_1.0_all.deb
+filename: ./debs/xyz.cypwn.dpkgfill_1.0_all.deb
 
 Package: dev.theos.orion14
 Version: 1.0.1
@@ -214,7 +214,7 @@ Depiction: https://chariz.com/get/orion-runtime14
 Tag: role::developer, compatible_min::ios14.0
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/dev.theos.orion14_1.0.1_iphoneos-arm64.deb
+filename: ./debs/dev.theos.orion14_1.0.1_iphoneos-arm64.deb
 
 Architecture: iphoneos-arm64
 Package: com.nahtedetihw.stepup-rootless
@@ -230,7 +230,7 @@ Tag: role::enduser
 SomeOtherEntryToControl: True
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/com.nahtedetihw.stepup-rootless.deb
+filename: ./debs/com.nahtedetihw.stepup-rootless.deb
 
 Architecture: iphoneos-arm64
 Package: com.nahtedetihw.nowidgetlabels
@@ -247,7 +247,7 @@ Tag: role::enduser
 SomeOtherEntryToControl: True
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/com.nahtedetihw.nowidgetlabels-rootless.deb
+filename: ./debs/com.nahtedetihw.nowidgetlabels-rootless.deb
 
 Architecture: iphoneos-arm64
 Package: com.nahtedetihw.centeredlabels
@@ -265,7 +265,7 @@ Tag: role::enduser
 SomeOtherEntryToControl: True
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/com.nahtedetihw.centeredlabels-rootless.deb
+filename: ./debs/com.nahtedetihw.centeredlabels-rootless.deb
 
 Package: com.opa334.notrecording
 Name: NotRecordingمنع التطبيقات من كشف تسجيل الشاشة
@@ -279,7 +279,7 @@ Version: 1.1
 Installed-Size: 352
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/com.opa334.notrecording_1.1_iphoneos-arm64.deb
+filename: ./debs/com.opa334.notrecording_1.1_iphoneos-arm64.deb
 
 Package: com.opa334.whitepointmodule
 Name: White Point Reduceإختصار لتقليل حدة اللون الأبيض
@@ -294,7 +294,7 @@ Version: 1.2.2
 Installed-Size: 216
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/com.opa334.whitepointmodule_1.2.2_iphoneos-arm64.deb
+filename: ./debs/com.opa334.whitepointmodule_1.2.2_iphoneos-arm64.deb
 
 Package: com.foxfort.libfoxfortutils
 Name: libfoxfortutils
@@ -310,7 +310,7 @@ Version: 1.4.0
 Installed-Size: 1096
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/com.foxfort.libfoxfortutils_1.4.0_iphoneos-arm64.deb
+filename: ./debs/com.foxfort.libfoxfortutils_1.4.0_iphoneos-arm64.deb
 
 Package: com.nahtedetihw.musicalert
 Name: MusicAlert Ios16مظهر تنبيهات الموسيقىل
@@ -324,7 +324,7 @@ Version: 1.2
 Installed-Size: 172
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/com.nahtedetihw.musicalert_1.2_iphoneos-arm64.deb
+filename: ./debs/com.nahtedetihw.musicalert_1.2_iphoneos-arm64.deb
 
 Package: com.foxfort.foxforttools
 Name: FoxFort Tools
@@ -340,7 +340,7 @@ Version: 1.4.0
 Installed-Size: 1600
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/com.foxfort.foxforttools_1.4.0_iphoneos-arm64.deb
+filename: ./debs/com.foxfort.foxforttools_1.4.0_iphoneos-arm64.deb
 
 Package: com.umarbutt.hacksoccer
 Name: Soccer Stars LongAim⭐️إشارة طويلة
@@ -354,7 +354,7 @@ Version: 32.0.1-7+debug
 Installed-Size: 744
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/com.umarbutt.hacksoccer_32.0.1-7+debug_iphoneos-arm64.deb
+filename: ./debs/com.umarbutt.hacksoccer_32.0.1-7+debug_iphoneos-arm64.deb
 
 Package: com.junesiphone.applibraryplus
 Name: AppLibraryPlusتعديل مظهر المكتبة
@@ -369,7 +369,7 @@ Version: 0.1
 Installed-Size: 616
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/com.junesiphone.applibraryplus_0.1_iphoneos-arm64.deb
+filename: ./debs/com.junesiphone.applibraryplus_0.1_iphoneos-arm64.deb
 
 Package: xyz.cypwn.storeswitcher2
 Maintainer: CyPwn
@@ -384,7 +384,7 @@ Section: Tweaks
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/storeswitcher.png
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/xyz.cypwn.storeswitcher2_1.0.3_iphoneos-arm64.deb
+filename: ./debs/xyz.cypwn.storeswitcher2_1.0.3_iphoneos-arm64.deb
 
 Package: com.squ1dd13.cleo
 Name: GTA-SA CLEO⭐️هاك سليو لعبة سان اندريس
@@ -400,7 +400,7 @@ Author: squ1dd13
 Section: Games(Hack)
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/com.squ1dd13.cleo_2.6.0_iphoneos-arm64.deb
+filename: ./debs/com.squ1dd13.cleo_2.6.0_iphoneos-arm64.deb
 
 Package: com.3bod.syria
 Name: ClassicoNoAdsتطبيق الكلاسيكو بدون إعلانات
@@ -414,7 +414,7 @@ Version: 0.0.1-1+debug
 Installed-Size: 104
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/com.3bod.syria_0.0.1-1+debug_iphoneos-arm64.deb
+filename: ./debs/com.3bod.syria_0.0.1-1+debug_iphoneos-arm64.deb
 
 Package: iOSGods.com.ScoreHero2
 Name: Score! Hero 2 Cheats⭐️هاك لعبة
@@ -429,7 +429,7 @@ Version: 2.81+iOSGods.com
 Installed-Size: 5680
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/iOSGods.com.ScoreHero2_2.81+iOSGods.com_iphoneos-arm64.deb
+filename: ./debs/iOSGods.com.ScoreHero2_2.81+iOSGods.com_iphoneos-arm64.deb
 
 Package: com.rob311.sorrylowbattery
 Name: SorryLowBatteryتزوير نسبة شحن الهاتف
@@ -443,7 +443,7 @@ Version: 1.6
 Installed-Size: 1868
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/com.rob311.sorrylowbattery_1.6_iphoneos-arm64.deb
+filename: ./debs/com.rob311.sorrylowbattery_1.6_iphoneos-arm64.deb
 
 Package: xyz.cypwn.dopesaily
 Maintainer: Cypwn
@@ -458,7 +458,7 @@ Icon: https://sailyteam.github.io/Saily/Resources/icon.png
 Conflicts: wiki.qaq.chromatic
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/xyz.cypwn.dopesaily_2.1-RL_iphoneos-arm64.deb
+filename: ./debs/xyz.cypwn.dopesaily_2.1-RL_iphoneos-arm64.deb
 
 Package: xyz.cypwn.debra
 Maintainer: CyPwn
@@ -472,7 +472,7 @@ Author: Sudo & Paisseon
 Icon: https://sudo9000.github.io/depictions/debra/assets/icon.png
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/xyz.cypwn.debra_2.7.9_all.deb
+Filename: ./debs/xyz.cypwn.debra_2.7.9_all.deb
 
 Package: org.coolstar.sileo
 Name: SileoDopamineتطبيق 
@@ -486,7 +486,7 @@ Section: Packaging
 Icon: https://getsileo.app/img/icon.png
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/org.coolstar.sileo_2.4.4_iphoneos-arm64.deb
+Filename: ./debs/org.coolstar.sileo_2.4.4_iphoneos-arm64.deb
 
 Architecture: iphoneos-arm64
 Author: Evelyn
@@ -499,7 +499,7 @@ Version: 0.3
 Section: Development
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/oldabi_0.3_iphoneos-arm64.deb
+Filename: ./debs/oldabi_0.3_iphoneos-arm64.deb
 
 Package: jp.dcsyhi.zetsurootless15
 Name: Zetsuفتح أكثر من تطبيق دفعة واحدة
@@ -514,7 +514,7 @@ Version: 1.1
 Installed-Size: 2480
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/jp.dcsyhi.zetsurootless15_1.1_iphoneos-arm64.deb
+filename: ./debs/jp.dcsyhi.zetsurootless15_1.1_iphoneos-arm64.deb
 
 Package: jp.akusio.backgrounderaction15
 Name: BackgrounderAction15إختصار لإستمرار التطبيقات بالخلفية
@@ -528,7 +528,7 @@ Version: 0.1.0
 Installed-Size: 340
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/jp.akusio.backgrounderaction15_0.1.0_iphoneos-arm64.deb
+Filename: ./debs/jp.akusio.backgrounderaction15_0.1.0_iphoneos-arm64.deb
 
 Package: ellekit
 Name: ElleKitأداة مهمة لحقن أدوات جلبريك دوبامين
@@ -546,7 +546,7 @@ Description: ElleKit tweak injection libraries and loaderحقن أدوات جل�
  ElleKit tweak injection libraries and loader. Currently in beta.
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/ellekit_0.5.3_iphoneos-arm64.deb
+Filename: ./debs/ellekit_0.5.3_iphoneos-arm64.deb
 
 Name: DenyPhotoAlbumsإخفاء ألبومات الصور
 Package: com.cydiageek.denyphotoalbums
@@ -564,7 +564,7 @@ dev: lucaluca86
 Icon: file:///Library/PreferenceBundles/DenyPhotoAlbums.bundle/DenyPhotoAlbums@2x.png
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/denyphotoalbums_1.1.9_iphoneos-arm64.deb
+Filename: ./debs/denyphotoalbums_1.1.9_iphoneos-arm64.deb
 
 Package: cum.0xilis.unsigncuts
 Name: Unsigncutsإستيراد الشورتات الغير موثقة
@@ -577,7 +577,7 @@ Version: 2.0
 Installed-Size: 1148
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/cum.0xilis.unsigncuts_2.0_iphoneos-arm64.deb
+Filename: ./debs/cum.0xilis.unsigncuts_2.0_iphoneos-arm64.deb
 
 Package: com.sop.statustime
 Name: StatusTimeإضافة التاريخ بجانب الوقت
@@ -592,7 +592,7 @@ Version: 1.3
 Installed-Size: 376
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/com.sop.statustime_1.3_iphoneos-arm64.deb
+Filename: ./debs/com.sop.statustime_1.3_iphoneos-arm64.deb
 
 Package: com.ryannair05.cylinder
 Version: 1.1.1
@@ -608,7 +608,7 @@ Icon: https://img.chariz.cloud/icon/cylinder-reborn/icon@3x.png
 Tag: compatible_min::ios11.0
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/com.ryannair05.cylinder_1.1.1_iphoneos-arm64.deb
+Filename: ./debs/com.ryannair05.cylinder_1.1.1_iphoneos-arm64.deb
 
 Package: com.ps.cconandoff
 Name: CC On & Offإغلاق الواي فاي والبلوتوث من مركز التحكم
@@ -623,7 +623,7 @@ Version: 1.1.0
 Installed-Size: 152
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/com.ps.cconandoff_1.1.0_iphoneos-arm64.deb
+Filename: ./debs/com.ps.cconandoff_1.1.0_iphoneos-arm64.deb
 
 Package: com.p2kdev.screenshotactions
 Name: ScreenshotActionsإضافة خيارات للقطة الشاشة
@@ -638,7 +638,7 @@ Version: 1.2
 Installed-Size: 164
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/com.p2kdev.screenshotactions_1.2_iphoneos-arm64.deb
+Filename: ./debs/com.p2kdev.screenshotactions_1.2_iphoneos-arm64.deb
 
 Package: com.opa334.libsandy
 Name: libSandy
@@ -653,7 +653,7 @@ Version: 1.0.5-2
 Installed-Size: 336
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/com.opa334.libsandy_1.0.5-2_iphoneos-arm64.deb
+Filename: ./debs/com.opa334.libsandy_1.0.5-2_iphoneos-arm64.deb
 
 Package: com.nahtedetihw.nowplayingiconxvi
 Name: NowPlayingIconXVIإظهار صورة الفيديو بالأيقونة
@@ -667,7 +667,7 @@ Version: 1.0
 Installed-Size: 172
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/com.nahtedetihw.nowplayingiconxvi_1.0_iphoneos-arm64.deb
+Filename: ./debs/com.nahtedetihw.nowplayingiconxvi_1.0_iphoneos-arm64.deb
 
 Package: com.nahtedetihw.floatingdockxvi
 Name: FloatingDockXVIالتعديل على شريط الدوك
@@ -681,7 +681,7 @@ Version: 1.2
 Installed-Size: 808
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/com.nahtedetihw.floatingdockxvi_1.2_iphoneos-arm64.deb
+Filename: ./debs/com.nahtedetihw.floatingdockxvi_1.2_iphoneos-arm64.deb
 
 Package: com.mtac.uptime
 Name: Uptimeإختصار لمعرفة زمن تفعيل الجلبريك
@@ -695,7 +695,7 @@ Version: 1.0.1
 Installed-Size: 192
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/com.mtac.uptime_1.0.1_iphoneos-arm64.deb
+Filename: ./debs/com.mtac.uptime_1.0.1_iphoneos-arm64.deb
 
 Package: com.mtac.ampere
 Name: Ampere Ios16مظهر البطارية الخاص ب
@@ -709,7 +709,7 @@ Version: 1.0.8
 Installed-Size: 536
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/com.mtac.ampere_1.0.8_iphoneos-arm64.deb
+Filename: ./debs/com.mtac.ampere_1.0.8_iphoneos-arm64.deb
 
 Package: com.mrgcgamer.libgcuniversal
 Name: LibGcUniversal
@@ -725,7 +725,7 @@ Version: 1.6.3
 Installed-Size: 296
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/com.mrgcgamer.libgcuniversal_1.6.3_iphoneos-arm64.deb
+Filename: ./debs/com.mrgcgamer.libgcuniversal_1.6.3_iphoneos-arm64.deb
 
 Package: com.miro.uyouimport
 Name: uYouImportحفظ الموسيقى والفيديوهات
@@ -740,7 +740,7 @@ Version: 1.0
 Installed-Size: 444
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/com.miro.uyouimport_1.0_iphoneos-arm64.deb
+Filename: ./debs/com.miro.uyouimport_1.0_iphoneos-arm64.deb
 
 Package: com.miro.libphonenumber
 Name: libPhoneNumber
@@ -755,7 +755,7 @@ Version: 1.1
 Installed-Size: 604
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/com.miro.libphonenumber_1.1_iphoneos-arm64.deb
+Filename: ./debs/com.miro.libphonenumber_1.1_iphoneos-arm64.deb
 
 Package: com.miro.libmiroprefs
 Name: libMiROPrefs
@@ -770,7 +770,7 @@ Version: 1.1
 Installed-Size: 1568
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/com.miro.libmiroprefs_1.1_iphoneos-arm64.deb
+Filename: ./debs/com.miro.libmiroprefs_1.1_iphoneos-arm64.deb
 
 Package: com.level3tjg.bfdecrypt
 Name: bfdecrypt IPAسحب التطبيقات بصيغة
@@ -784,7 +784,7 @@ Version: 1.3.4
 Installed-Size: 388
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/com.level3tjg.bfdecrypt_1.3.4_iphoneos-arm64.deb
+Filename: ./debs/com.level3tjg.bfdecrypt_1.3.4_iphoneos-arm64.deb
 
 Package: com.icraze.gestures15
 Name: Gestures15ستاتوس بار الأيباد
@@ -798,7 +798,7 @@ Version: 1.0
 Installed-Size: 168
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/com.icraze.gestures15_1.0_iphoneos-arm64.deb
+Filename: ./debs/com.icraze.gestures15_1.0_iphoneos-arm64.deb
 
 Author: ichitaso
 Maintainer: Havoc
@@ -818,7 +818,7 @@ Version: 1.0.2
 Installed-Size: 168
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/com.ichitaso.iconorder_1.0.2_iphoneos-arm64.deb
+Filename: ./debs/com.ichitaso.iconorder_1.0.2_iphoneos-arm64.deb
 
 Package: com.foxfort.deluminator
 Name: Deluminatorتفعيل الوضع الليلي للمتصفح
@@ -833,7 +833,7 @@ Version: 4.2.0
 Installed-Size: 1464
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/com.foxfort.deluminator_4.2.0_iphoneos-arm64.deb
+Filename: ./debs/com.foxfort.deluminator_4.2.0_iphoneos-arm64.deb
 
 Package: com.cameronkatri.quickactions
 Version: 1.0.0-2
@@ -849,7 +849,7 @@ Icon: https://img.chariz.cloud/icon/quickactions/icon@3x.png
 Tag: compatible_min::ios14.0
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/com.cameronkatri.quickactions_1.0.0-2_iphoneos-arm64.deb
+Filename: ./debs/com.cameronkatri.quickactions_1.0.0-2_iphoneos-arm64.deb
 
 Author: opa334 <opa334@protonmail.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
@@ -866,7 +866,7 @@ dev: opa334
 Tag: purpose::library
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/altlist_1.0.10_iphoneos-arm64.deb
+Filename: ./debs/altlist_1.0.10_iphoneos-arm64.deb
 
 Package: com.tigisoftware.filza64bit
 Name: Filza File Manager64🃏مدير الملفات
@@ -881,7 +881,7 @@ Version: 4.0.1-4
 Installed-Size: 23200
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/com.tigisoftware.filza64bit_4.0.1-4_iphoneos-arm64.deb
+Filename: ./debs/com.tigisoftware.filza64bit_4.0.1-4_iphoneos-arm64.deb
 
 Author: opa334 <opa334@protonmail.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
@@ -900,7 +900,7 @@ dev: opa334
 Tag: purpose::extension
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/ccsupport_1.3.10-2_iphoneos-arm64.deb
+Filename: ./debs/ccsupport_1.3.10-2_iphoneos-arm64.deb
 
 Package: netskao.limneoscrack-rootless
 Version: 1.1-3
@@ -914,7 +914,7 @@ Author: Netskao
 Description: limneos Tweaks crack كراك لأدوات إلياس
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/4342.deb
+Filename: ./debs/4342.deb
 
 Package: netskao.showtouch-rootless
 Version: 1.0.4-1
@@ -928,7 +928,7 @@ Author: LonestarX
 Description: Shows where you touch the screenإظهار اللمسات على الشاشة وعند تصوير لقطة الشاشة
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/4316.deb
+Filename: ./debs/4316.deb
 
 Package: netskao.filzacrack-rootless
 Version: 1.1-8
@@ -943,7 +943,7 @@ Description: Filza crack كراك مدير الملفات فيلزا
 Homepage: https://tigisoftware.com/cydia/
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/netskao.filzacrack-rootless_1.1-8.deb
+Filename: ./debs/netskao.filzacrack-rootless_1.1-8.deb
 
 Package: netskao.appdata-rootless
 Version: 1.4.0
@@ -957,7 +957,7 @@ Author: Fouad Raheb
 Description: Appdata حذف مخلفات التطبيقات من الشاشة الرئيسية والكثير
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/4302.deb
+Filename: ./debs/4302.deb
 
 Package: netskao.ccpower-rootless
 Version: 1.9-4
@@ -971,7 +971,7 @@ Author: Netskao
 Description: Control Center Quick Power Toolخيارات عديدة لاغلاق الجهاز واعادة التشغيل وغيرها
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/4286.deb
+Filename: ./debs/4286.deb
 
 Package: netskao.killapps-rootless
 Version: 1.2-2
@@ -985,7 +985,7 @@ Author: Netskao
 Description: Add quick clean all backgroundإغلاق التطبيقات دفعة واحدة
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/4252.deb
+Filename: ./debs/4252.deb
 
 Package: com.spark.snowboard
 Name: SnowBoard🟢أداة خاصة بالثيمات 
@@ -1001,7 +1001,7 @@ Section: Tweaks
 Version: 1.5.9-Beta3-rootless
 Installed-Size: 3188
 Depictions: https://doplx.github.io/twx
-Filename: debs/1.5.9-Beta3-rootless.deb
+Filename: ./debs/1.5.9-Beta3-rootless.deb
 SileoDepiction: https://doplx.github.io/twx
 
 Name: Apps Manager🃏مدير التطبيقات
@@ -1019,7 +1019,7 @@ Installed-Size: 9121
 dev: satashi2009
 Icon: file:///Applications/ADManager.app/AppIcon60x60@2x.png
 Depictions: https://doplx.github.io/twx
-Filename: debs/appsmanager_1.8.2-5.deb
+Filename: ./debs/appsmanager_1.8.2-5.deb
 SileoDepiction: https://doplx.github.io/twx
 
 Package: com.miro.libmiro
@@ -1034,7 +1034,7 @@ Architecture: iphoneos-arm64
 Version: 1.1
 Installed-Size: 1736
 Depictions: https://doplx.github.io/twx
-Filename: debs/com.miro.libmiro_1.1_iphoneos-arm64.deb
+Filename: ./debs/com.miro.libmiro_1.1_iphoneos-arm64.deb
 SileoDepiction: https://doplx.github.io/twx
 
 Package: com.miro.uyou
@@ -1052,7 +1052,7 @@ Architecture: iphoneos-arm64
 Version: 3.0
 Installed-Size: 31200
 Depictions: https://doplx.github.io/twx
-Filename: debs/com.miro.uyou_3.0_iphoneos-arm.deb
+Filename: ./debs/com.miro.uyou_3.0_iphoneos-arm.deb
 SileoDepiction: https://doplx.github.io/twx
 
 Package: com.opa334.choicy
@@ -1067,7 +1067,7 @@ Architecture: iphoneos-arm64
 Version: 1.4.7-3
 Installed-Size: 836
 Depictions: https://doplx.github.io/twx
-Filename: debs/com.opa334.choicy_1.4.7-3_iphoneos-arm64.deb
+Filename: ./debs/com.opa334.choicy_1.4.7-3_iphoneos-arm64.deb
 SileoDepiction: https://doplx.github.io/twx
 
 Package: com.ps.apppad
@@ -1083,7 +1083,7 @@ Version: 1.1.2
 Installed-Size: 172
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/com.ps.apppad_1.1.2_iphoneos-arm64.deb
+Filename: ./debs/com.ps.apppad_1.1.2_iphoneos-arm64.deb
 
 Package: com.ps.cahighfps
 Name: CAHighFPSتشغيل التطبيقات بأعلى فريمات
@@ -1097,7 +1097,7 @@ Version: 1.3.1
 Installed-Size: 204
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/com.ps.cahighfps_1.3.1_iphoneos-arm64.deb
+Filename: ./debs/com.ps.cahighfps_1.3.1_iphoneos-arm64.deb
 
 Package: com.sop.cachemagicrootless
 Name: Cache Magicإختصار لتنظيف مخلفات التطبيقات
@@ -1112,7 +1112,7 @@ Version: 1.1
 Installed-Size: 180
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/com.sop.cachemagicrootless_1.1_iphoneos-arm64.deb
+Filename: ./debs/com.sop.cachemagicrootless_1.1_iphoneos-arm64.deb
 
 Package: com.sop.cpumagicrootless
 Name: Cpu Magicإختصار لإظهار نسبة الذاكرة 
@@ -1127,7 +1127,7 @@ Version: 1.0
 Installed-Size: 180
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/com.sop.cpumagicrootless_1.0_iphoneos-arm64.deb
+Filename: ./debs/com.sop.cpumagicrootless_1.0_iphoneos-arm64.deb
 
 Package: com.sop.memorymagicrootless
 Name: Memory Magicإختصار لإظهار نسبة الرام
@@ -1142,7 +1142,7 @@ Version: 1.1
 Installed-Size: 200
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/com.sop.memorymagicrootless_1.1_iphoneos-arm64.deb
+Filename: ./debs/com.sop.memorymagicrootless_1.1_iphoneos-arm64.deb
 
 Package: com.sop.networkmagicrootless
 Name: Network Magicإختصار لإظهار سرعة الإنترنت
@@ -1157,7 +1157,7 @@ Version: 1.0
 Installed-Size: 176
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/com.sop.networkmagicrootless_1.0_iphoneos-arm64.deb
+Filename: ./debs/com.sop.networkmagicrootless_1.0_iphoneos-arm64.deb
 
 Package: com.sop.settingsrevamp
 Name: SettingsRevampتخصيص وترتيب الإعدادات للأيفون
@@ -1173,7 +1173,7 @@ Version: 2.0.4
 Installed-Size: 540
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/com.sop.settingsrevamp_2.0.4_iphoneos-arm64.deb
+Filename: ./debs/com.sop.settingsrevamp_2.0.4_iphoneos-arm64.deb
 
 Package: com.tigisoftware.filza64bit
 Name: Filza File Manager 64-bit🃏مدير الملفات
@@ -1188,7 +1188,7 @@ Version: 4.0.1-4
 Installed-Size: 23200
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/com.tigisoftware.filza64bit_4.0.1-4_iphoneos-arm64.deb
+Filename: ./debs/com.tigisoftware.filza64bit_4.0.1-4_iphoneos-arm64.deb
 
 Package: com.yan.anouk
 Name: Anoukقفل الألبوم المخفي ببصمة الوجه
@@ -1203,7 +1203,7 @@ Version: 1.0.1
 Installed-Size: 168
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/com.yan.anouk_1.0.1_iphoneos-arm64.deb
+Filename: ./debs/com.yan.anouk_1.0.1_iphoneos-arm64.deb
 
 Package: me.jjolano.fmwk.hookkit
 Name: HookKit Framework
@@ -1218,7 +1218,7 @@ Version: 1.0.15
 Installed-Size: 284
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/me.jjolano.fmwk.hookkit_1.0.15_iphoneos-arm.deb
+Filename: ./debs/me.jjolano.fmwk.hookkit_1.0.15_iphoneos-arm.deb
 
 Package: me.jjolano.fmwk.modulous
 Name: Modulous Framework
@@ -1233,7 +1233,7 @@ Version: 1.0.8
 Installed-Size: 280
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/me.jjolano.fmwk.modulous_1.0.8_iphoneos-arm.deb
+Filename: ./debs/me.jjolano.fmwk.modulous_1.0.8_iphoneos-arm.deb
 
 Package: me.jjolano.fmwk.rootbridge
 Name: RootBridge Framework
@@ -1248,7 +1248,7 @@ Version: 1.0.1
 Installed-Size: 280
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/me.jjolano.fmwk.rootbridge_1.0.1_iphoneos-arm.deb
+Filename: ./debs/me.jjolano.fmwk.rootbridge_1.0.1_iphoneos-arm.deb
 
 Package: me.jjolano.hkmodule.dobby
 Name: HookKit Module (Dobby)
@@ -1263,7 +1263,7 @@ Version: 1.0.7
 Installed-Size: 216
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/me.jjolano.hkmodule.dobby_1.0.7_iphoneos-arm.deb
+Filename: ./debs/me.jjolano.hkmodule.dobby_1.0.7_iphoneos-arm.deb
 
 Package: me.jjolano.hkmodule.ellekit
 Name: HookKit Module (ElleKit)
@@ -1279,7 +1279,7 @@ Version: 1.0.7
 Installed-Size: 188
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/me.jjolano.hkmodule.ellekit_1.0.7_iphoneos-arm.deb
+Filename: ./debs/me.jjolano.hkmodule.ellekit_1.0.7_iphoneos-arm.deb
 
 Package: me.jjolano.hkmodule.fishhook
 Name: HookKit Module (fishhook)
@@ -1293,7 +1293,7 @@ Version: 1.0.8
 Installed-Size: 288
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/me.jjolano.hkmodule.fishhook_1.0.8_iphoneos-arm.deb
+Filename: ./debs/me.jjolano.hkmodule.fishhook_1.0.8_iphoneos-arm.deb
 
 Package: me.jjolano.hkmodule.substrate
 Name: HookKit Module (Cydia Substrate)
@@ -1308,7 +1308,7 @@ Version: 1.0.8
 Installed-Size: 284
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/me.jjolano.hkmodule.substrate_1.0.8_iphoneos-arm.deb
+Filename: ./debs/me.jjolano.hkmodule.substrate_1.0.8_iphoneos-arm.deb
 
 Package: me.jjolano.shadow
 Name: Shadow🔥تخطي كشف الجلبريك للببجي
@@ -1328,7 +1328,7 @@ Version: 3.7.3
 Installed-Size: 1432
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/me.jjolano.shadow_3.7.3_iphoneos-arm.deb
+Filename: ./debs/me.jjolano.shadow_3.7.3_iphoneos-arm.deb
 
 Package: net.limneos.answeringmachinex-rootless
 Name: AnsweringMachine XSإدارة المكالمات للأيفون
@@ -1343,7 +1343,7 @@ Version: 2.0-2
 Installed-Size: 2464
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/net.limneos.answeringmachinex-rootless_2.0-2_iphoneos-arm64.deb
+Filename: ./debs/net.limneos.answeringmachinex-rootless_2.0-2_iphoneos-arm64.deb
 
 Package: net.limneos.aquaboardx-rootless
 Name: AquaBoard XSتأثير مائي عند الضغط على الشاشة
@@ -1360,7 +1360,7 @@ Version: 2.0-3
 Installed-Size: 768
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/net.limneos.aquaboardx-rootless_2.0-3_iphoneos-arm64.deb
+Filename: ./debs/net.limneos.aquaboardx-rootless_2.0-3_iphoneos-arm64.deb
 
 Package: net.limneos.bioprotectxs-rootless
 Name: BioProtectقفل التطبيقات بواسطة بصمة الوجه
@@ -1377,7 +1377,7 @@ Version: 4.6-30
 Installed-Size: 2168
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/net.limneos.bioprotectxs-rootless_4.6-30_iphoneos-arm64.deb
+Filename: ./debs/net.limneos.bioprotectxs-rootless_4.6-30_iphoneos-arm64.deb
 
 Package: net.limneos.dynamicpeninsula-rootless
 Name: DynamicPeninsula 14نوتش الأيفون
@@ -1392,7 +1392,7 @@ Version: 0.6-19
 Installed-Size: 1668
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/net.limneos.dynamicpeninsula-rootless_0.6-19_iphoneos-arm64.deb
+Filename: ./debs/net.limneos.dynamicpeninsula-rootless_0.6-19_iphoneos-arm64.deb
 
 Package: net.limneos.libbulletin
 Name: libbulletin
@@ -1406,7 +1406,7 @@ Version: 0.1-178
 Installed-Size: 348
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/net.limneos.libbulletin_0.1-178_iphoneos-arm64.deb
+Filename: ./debs/net.limneos.libbulletin_0.1-178_iphoneos-arm64.deb
 
 Package: net.limneos.simpleactivationactions-rootless
 Name: SimpleActivationActions (rootless)
@@ -1421,7 +1421,7 @@ Version: 0.1-1
 Installed-Size: 152
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/net.limneos.simpleactivationactions-rootless_0.1-1_iphoneos-arm64.deb
+Filename: ./debs/net.limneos.simpleactivationactions-rootless_0.1-1_iphoneos-arm64.deb
 
 Package: net.limneos.smarttapx-rootless
 Name: SmartTapميزة الضغط للتنبيه للأجهزة القديمة
@@ -1438,7 +1438,7 @@ Version: 0.5-2
 Installed-Size: 780
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/net.limneos.smarttapx-rootless_0.5-2_iphoneos-arm64.deb
+Filename: ./debs/net.limneos.smarttapx-rootless_0.5-2_iphoneos-arm64.deb
 
 Package: net.limneos.voicechangerx-rootless
 Name: VoiceChanger XSتغير الصوت أثناء المكالمة
@@ -1455,7 +1455,7 @@ Version: 2.4-3
 Installed-Size: 1420
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/net.limneos.voicechangerx-rootless_2.4-3_iphoneos-arm64.deb
+Filename: ./debs/net.limneos.voicechangerx-rootless_2.4-3_iphoneos-arm64.deb
 
 Package: ws.hbang.newterm3
 Version: 3.0~beta1
@@ -1473,7 +1473,7 @@ Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
 Tag: compatible_min::ios14.0
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/ws.hbang.newterm3_3.0~beta1_iphoneos-arm64.deb
+Filename: ./debs/ws.hbang.newterm3_3.0~beta1_iphoneos-arm64.deb
 
 Name: PreferenceLoaderأداة مهمة لتفعيل الأدوات
 Description: A lightweight and modern alternativeتفعيل ادوات الجلبريك
@@ -1489,7 +1489,7 @@ Provides: preferenceloader (= 2.2.6)
 Installed-Size: 337
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/preferenceloader.rootless_2.2.6.6_iphoneos-arm64.deb
+Filename: ./debs/preferenceloader.rootless_2.2.6.6_iphoneos-arm64.deb
 
 Package: netskao.smallbanners-rootless
 Version: 1.2-5
@@ -1504,4 +1504,4 @@ Author: Netskao
 Description: Small Notification Bannersتصغير الإشعارات
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/4239.deb
+Filename: ./debs/4239.deb
