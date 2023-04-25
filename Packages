@@ -1,9 +1,39 @@
 
+Package: xyz.cypwn.icleanerprocrack
+Maintainer: CyPwn
+Name: iCleaner Pro Crack🛠كراك 
+Architecture: iphoneos-arm64
+Description: iCleaner Pro Crackكراك منظف التطبيقات
+Author: Anna
+Section: Cracks
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 1.1
+Installed-Size: 136
+SileoDepiction: https://doplx.github.io/twx
+Depictions: https://doplx.github.io/twx
+filename: debs/xyz.cypwn.icleanerprocrack_1.1_iphoneos-arm64.deb
+
+Package: com.exile90.icleanerpro
+Name: iCleaner Pro🃏منظف التطبيقات 
+Description: Icleaner-Pro⭐️تنظيف مخلفات التطبيقات
+Author: Ivano Bilenchi <support@ib-soft.net>
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Version: 7.10.0
+Architecture: iphoneos-arm64
+Section: Tweaks
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Icon: file:///Applications/iCleaner.app/Icon.png
+SileoDepiction: https://doplx.github.io/twx
+Depictions: https://doplx.github.io/twx
+filename: debs/com.exile90.icleanerpro_7.10.0_iphoneos-arm64.deb
+
 Package: com.jaxroth.supporttheunsupportedrevived
 Name: SupportTheUnsupportedدعم وصلات الشحن المزورة
 Version: 1.0.0
 Section: Tweaks
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Depends: mobilesubstrate
 Installed-Size: 136
 Author: Jax Roth
@@ -480,11 +510,11 @@ Author: Dcsyhi
 Section: Tweaks
 icon: https://dcsyhi1998.github.io/icons/zetsu/zetsu.png
 Architecture: iphoneos-arm64
-Version: 1.0
+Version: 1.1
 Installed-Size: 2480
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/jp.dcsyhi.zetsurootless15_1.0_iphoneos-arm64.deb
+filename: debs/jp.dcsyhi.zetsurootless15_1.1_iphoneos-arm64.deb
 
 Package: jp.akusio.backgrounderaction15
 Name: BackgrounderAction15إختصار لإستمرار التطبيقات بالخلفية
