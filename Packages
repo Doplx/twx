@@ -1,4 +1,34 @@
 
+Package: com.jaxroth.supporttheunsupportedrevived
+Name: SupportTheUnsupportedدعم وصلات الشحن المزورة
+Version: 1.0.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Installed-Size: 136
+Author: Jax Roth
+Maintainer: Jax Roth
+Description: Allows “unsupported” charging accessoriesدعم وصلات الشحن المزورة
+SileoDepiction: https://doplx.github.io/twx
+Depictions: https://doplx.github.io/twx
+filename: debs/com.jaxroth.supporttheunsupportedrevived_1.0.0_iphoneos-arm64.deb
+
+Author: ExTBH <natheer@extbh.dev>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Jodel EMPROVEDللتعديل على تطبيق اليودل
+Package: dev.extbh.tbb.jodelemproved
+Depends: mobilesubstrate, firmware (>= 15.0)
+Section: Tweaks
+Installed-Size: 163
+Version: 1.1.7
+Architecture: iphoneos-arm64
+Description: Customizing the Jodel appتعديل على تطبيق اليودل
+dev: extbh
+Tag: purpose::extension
+SileoDepiction: https://doplx.github.io/twx
+Depictions: https://doplx.github.io/twx
+filename: debs/jodelemproved_1.1.7_iphoneos-arm64.deb
+
 Package: xyz.cypwn.snapper2rootless
 Maintainer: CyPwn
 Section: Tweaks
@@ -157,15 +187,13 @@ Depictions: https://doplx.github.io/twx
 filename: debs/dev.theos.orion14_1.0.1_iphoneos-arm64.deb
 
 Architecture: iphoneos-arm64
-Package: com.nahtedetihw.stepup
+Package: com.nahtedetihw.stepup-rootless
 Name: StepUpتعديل مستوى زر خفض/رفع الصوت
 Version: 1.2
-Depiction: https://ak-47v.github.io/twex/
-Icon: https://nahtedetihw.github.io/assets/com.nahtedetihw.stepup/icon.png
+Icon: https://nahtedetihw.github.io/assets/com.nahtedetihw.stepup-rootless/icon.png
 Description: ChangeTheAmountOF-StepVolumeتغيير مستوى خفض أو رفع الصوت
-Homepage: https://nahtedetihw.github.io
 Section: Tweaks
-Tags: compatible_min::ios13.0, compatible_max::ios16.2
+Tags: compatible_min::ios13.0, compatible_max::ios16.4
 Author: ETHN <ethanwhited2208@gmail.com>
 Maintainer: ETHN <ethanwhited2208@gmail.com>
 Tag: role::enduser
@@ -178,7 +206,6 @@ Architecture: iphoneos-arm64
 Package: com.nahtedetihw.nowidgetlabels
 Name: NoWidgetLabelsإخفاء تسمية الويدجت
 Version: 1.0
-Depiction: https://ak-47v.github.io/twex/
 Icon: https://nahtedetihw.github.io/assets/com.nahtedetihw.nowidgetlabels/icon.png
 Description: HidelabelsOF_widgets!إخفاءإسماء الويدجيت
 Homepage: https://nahtedetihw.github.io
