@@ -165,7 +165,6 @@ Icon: https://nahtedetihw.github.io/assets/com.nahtedetihw.stepup/icon.png
 Description: ChangeTheAmountOF-StepVolumeتغيير مستوى خفض أو رفع الصوت
 Homepage: https://nahtedetihw.github.io
 Section: Tweaks
-Depends: firmware (>=13.0), ws.hbang.common
 Tags: compatible_min::ios13.0, compatible_max::ios16.2
 Author: ETHN <ethanwhited2208@gmail.com>
 Maintainer: ETHN <ethanwhited2208@gmail.com>
