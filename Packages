@@ -1,4 +1,20 @@
 
+Package: xyz.cypwn.snapper2rootless
+Maintainer: CyPwn
+Section: Tweaks
+Installed-Size: 1840
+Architecture: iphoneos-arm64
+Version: 2.6.0
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2
+Description: Pin screenshots on the screen.أفضل أداة لإقتصاص لقطات الشاشة وسحب النصوص
+Name: Snapper 2 إقتصاص لقطات الشاشة 
+Author: Jonathan Winger-lang
+Icon: https://media.havoc.app/620537d57c5e627af05611b6
+SileoDepiction: https://doplx.github.io/twx
+Depictions: https://doplx.github.io/twx
+filename: debs/xyz.cypwn.snapper2rootless_2.6.0_iphoneos-arm64.deb
+
 Package: netskao.ccswitchdata-rootless
 Version: 1.1-4
 Section: Tweaks
@@ -423,11 +439,11 @@ Description: Support for legacy arm64e ABI in iOS 15.0+
 Package: oldabi
 Maintainer: Evelyn
 Name: Legacy arm64e Support
-Version: 0.2.3
+Version: 0.3
 Section: Development
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/oldabi_0.2.3_iphoneos-arm64.deb
+Filename: debs/oldabi_0.3_iphoneos-arm64.deb
 
 Package: jp.dcsyhi.zetsurootless15
 Name: Zetsuفتح أكثر من تطبيق دفعة واحدة
