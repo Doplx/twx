@@ -1,4 +1,378 @@
 
+Package: netskao.ccswitchdata-rootless
+Version: 1.1-4
+Section: Tweaks
+Maintainer: Nets
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Architecture: iphoneos-arm64
+Installed-Size: 132
+Name: CCSwitchData 3G/4G/5Gإختصار للتبديل بين 
+Author: Netskao
+Description: Switch between 4G/5G from conrolCenterالتبديل بين الفورجي والعكس من مركز التحكم
+SileoDepiction: https://doplx.github.io/twx
+Depictions: https://doplx.github.io/twx
+filename: debs/4303.deb
+
+Package: netskao.appsmanagercrack
+Version: 1.1-4
+Section: Cracks
+Maintainer: Nets
+Depends: mobilesubstrate, com.tigisoftware.appdatamanager
+Architecture: iphoneos-arm64
+Installed-Size: 200
+Name: Apps Manager Crack🛠كراك مدير التطبيقات
+Author: Netskao
+Description: Apps Manager Crack🛠كراك مدير التطبيقات
+SileoDepiction: https://doplx.github.io/twx
+Depictions: https://doplx.github.io/twx
+filename: debs/netskao.appsmanagercrack_1.1-4_iphoneos-arm64.deb
+
+Package: org.mr.libiarrays-rootless
+Name: libiarrays
+Author: IArrays <support@iarrays.com>
+Description: Should be used only by IArrays products. This is closed library and no support is provided for this package.
+Maintainer: MainRepo
+Version: 1.0.16-beta-2k
+Section: Development
+Pre-Depends: firmware (>=9.0)
+Conflicts: com.iarrays.libiarrays1, com.iarrays.libiarrays
+Architecture: iphoneos-arm64
+Icon: https://mrepo.org/CydiaIcon.png
+SileoDepiction: https://doplx.github.io/twx
+Depictions: https://doplx.github.io/twx
+filename: debs/5461.deb
+
+Package: com.0xkuj.3dappversionspoofer
+Name: 3DAppVersionSpooferتغير إصدار التطبيقات
+Architecture: iphoneos-arm64
+Description: A TweakFor-app spoofingتغير رقم الإصدار للتطبيقات عن طريق الضغط المطول
+Maintainer: 0xkuj
+Author: 0xkuj
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist
+Version: 1.2
+Installed-Size: 396
+SileoDepiction: https://doplx.github.io/twx
+Depictions: https://doplx.github.io/twx
+filename: debs/com.0xkuj.3dappversionspoofer_1.2_iphoneos-arm64.deb
+
+Architecture: iphoneos-arm64
+Package: com.nahtedetihw.reachplayer-rootless
+Name: ReachPlayerمعلومات الموسيقى بخانة الوصول السريع
+Version: 2.5
+Icon: https://nahtedetihw.github.io/assets/com.nahtedetihw.reachplayer-rootless/icon.png
+Description: Now Playing info in Reachability Window!معلومات الموسيقى بخانة الوصول السريع
+Section: Tweaks
+Depends: firmware (>=13.0), mobilesubstrate
+Tags: compatible_min::ios13.0, compatible_max::ios16.4
+Author: ETHN <ethanwhited2208@gmail.com>
+Maintainer: ETHN <ethanwhited2208@gmail.com>
+Tag: role::enduser
+SomeOtherEntryToControl: True
+SileoDepiction: https://doplx.github.io/twx
+Depictions: https://doplx.github.io/twx
+filename: debs/com.nahtedetihw.reachplayer-rootless.deb
+
+Architecture: iphoneos-arm64
+Package: com.nahtedetihw.musicartworksave-rootless
+Name: MusicArtworkSaveحفظ كلمات الأغنية 
+Version: 1.2
+Icon: https://nahtedetihw.github.io/assets/com.nahtedetihw.musicartworksave-rootless/icon.png
+Description: Save Album Artwork in Music.appحفظ كلمات الأغنية بتطبيق
+Section: Tweaks
+Tags: compatible_min::ios13.0, compatible_max::ios16.4
+Author: ETHN <ethanwhited2208@gmail.com>
+Maintainer: ETHN <ethanwhited2208@gmail.com>
+Tag: role::enduser
+SomeOtherEntryToControl: True
+SileoDepiction: https://doplx.github.io/twx
+Depictions: https://doplx.github.io/twx
+filename: debs/com.nahtedetihw.musicartworksave-rootless.deb
+
+Name: iKSettingsتعديل مظهر الإعدادات
+Package: pro.ikghd.ikset
+Conflicts: com.yourepo.ikghd.ikset, pro.ikghd.iksettings
+Replaces: pro.ikghd.iksettings
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader
+Version: 3.2
+Architecture: iphoneos-arm64
+Description: Redefined Settings app!تعديل مظهر الإعدادات كتوسيط الخانات وغير ذلك
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: iKarwan <ikghd3@gmail.com>
+Section: Tweaks
+Tag: purpose::extension
+Installed-Size: 415
+dev: ikghd
+Icon: file:///var/jb/Library/PreferenceBundles/iKSPrefs.bundle/icon@2x.png
+SileoDepiction: https://doplx.github.io/twx
+Depictions: https://doplx.github.io/twx
+filename: debs/ikset_3.2_iphoneos-arm64.deb
+
+Package: xyz.cypwn.dpkgfill
+Maintainer: CyPwn
+Name: dpkgfill Dpkgإصلاح خطأ ال
+Section: Tweaks
+Architecture: all
+Version: 1.0
+Description: Fix dpkg errors message due to missing maintainer and description on installed packages. Run 'dpkgfill' as root or 'sudo dpkgfill'
+Author: zhaonan 
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_terminal.png
+SileoDepiction: https://doplx.github.io/twx
+Depictions: https://doplx.github.io/twx
+filename: debs/xyz.cypwn.dpkgfill_1.0_all.deb
+
+Package: dev.theos.orion14
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Section: System
+Maintainer: Theos Team <support@theos.dev>
+Author: Theos Team <support@theos.dev>
+Installed-Size: 514
+Depends: firmware (>= 14.0), firmware (<< 17.0), mobilesubstrate (>= 0.9.5000)
+Provides: dev.theos.orion (= 1.0.1)
+Name: Orion Runtime (iOS 14 – 16)
+Description: Runtime for tweaks built using Orion and Swift
+Icon: https://img.chariz.cloud/icon/orion-runtime14/icon@3x.png
+Depiction: https://chariz.com/get/orion-runtime14
+Tag: role::developer, compatible_min::ios14.0
+SileoDepiction: https://doplx.github.io/twx
+Depictions: https://doplx.github.io/twx
+filename: debs/dev.theos.orion14_1.0.1_iphoneos-arm64.deb
+
+Architecture: iphoneos-arm64
+Package: com.nahtedetihw.stepup
+Name: StepUpتعديل مستوى زر خفض/رفع الصوت
+Version: 1.2
+Depiction: https://ak-47v.github.io/twex/
+Icon: https://nahtedetihw.github.io/assets/com.nahtedetihw.stepup/icon.png
+Description: ChangeTheAmountOF-StepVolumeتغيير مستوى خفض أو رفع الصوت
+Homepage: https://nahtedetihw.github.io
+Section: Tweaks
+Depends: firmware (>=13.0), ws.hbang.common
+Tags: compatible_min::ios13.0, compatible_max::ios16.2
+Author: ETHN <ethanwhited2208@gmail.com>
+Maintainer: ETHN <ethanwhited2208@gmail.com>
+Tag: role::enduser
+SomeOtherEntryToControl: True
+SileoDepiction: https://doplx.github.io/twx
+Depictions: https://doplx.github.io/twx
+filename: debs/com.nahtedetihw.stepup-rootless.deb
+
+Architecture: iphoneos-arm64
+Package: com.nahtedetihw.nowidgetlabels
+Name: NoWidgetLabelsإخفاء تسمية الويدجت
+Version: 1.0
+Depiction: https://ak-47v.github.io/twex/
+Icon: https://nahtedetihw.github.io/assets/com.nahtedetihw.nowidgetlabels/icon.png
+Description: HidelabelsOF_widgets!إخفاءإسماء الويدجيت
+Homepage: https://nahtedetihw.github.io
+Section: Tweaks
+Tags: compatible_min::ios14.0, compatible_max::ios16.2
+Author: ETHN <ethanwhited2208@gmail.com>
+Maintainer: ETHN <ethanwhited2208@gmail.com>
+Tag: role::enduser
+SomeOtherEntryToControl: True
+SileoDepiction: https://doplx.github.io/twx
+Depictions: https://doplx.github.io/twx
+filename: debs/com.nahtedetihw.nowidgetlabels-rootless.deb
+
+Architecture: iphoneos-arm64
+Package: com.nahtedetihw.centeredlabels
+Name: CenteredLabelsتوسيط خانات الإعدادات
+Version: 1.3
+Depiction: 
+Icon: https://nahtedetihw.github.io/assets/com.nahtedetihw.centeredlabels/icon.png
+Description: CenterSettingsLableتوسيط خانات الإعدادات
+Homepage: https://nahtedetihw.github.io
+Section: Tweaks
+Tags: compatible_min::ios13.0, compatible_max::ios16.2
+Author: ETHN <ethanwhited2208@gmail.com>
+Maintainer: ETHN <ethanwhited2208@gmail.com>
+Tag: role::enduser
+SomeOtherEntryToControl: True
+SileoDepiction: https://doplx.github.io/twx
+Depictions: https://doplx.github.io/twx
+filename: debs/com.nahtedetihw.centeredlabels-rootless.deb
+
+Package: com.opa334.notrecording
+Name: NotRecordingمنع التطبيقات من كشف تسجيل الشاشة
+Depends: mobilesubstrate, com.opa334.altlist
+Description: Spoof screen recording detection!منع التطبيقات من كشف تصوير الشاشة
+Maintainer: opa334
+Author: opa334
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.1
+Installed-Size: 352
+SileoDepiction: https://doplx.github.io/twx
+Depictions: https://doplx.github.io/twx
+filename: debs/com.opa334.notrecording_1.1_iphoneos-arm64.deb
+
+Package: com.opa334.whitepointmodule
+Name: White Point Reduceإختصار لتقليل حدة اللون الأبيض
+Depends: mobilesubstrate, com.opa334.ccsupport, firmware (>= 11.0)
+Description: Reduce White Point from Control Center! إختصار تقليل حدة اللون الأبيض
+Icon: https://opa334.github.io/depic/WhitePointModule/Resources/icon.png
+Maintainer: opa334
+Author: opa334
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.2.2
+Installed-Size: 216
+SileoDepiction: https://doplx.github.io/twx
+Depictions: https://doplx.github.io/twx
+filename: debs/com.opa334.whitepointmodule_1.2.2_iphoneos-arm64.deb
+
+Package: com.foxfort.libfoxfortutils
+Name: libfoxfortutils
+Depends: firmware (>= 11.0), com.opa334.libsandy
+Conflicts: co.xrepo.appletweakjailbreak.libfoxfortutils, co.xrepo.appletweakjailbreak.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64e, com.hackyouriphone.libfoxfortutils64, com.hackyouriphone.libfoxfortutils64e, com.yourepo.mohadu31.libfoxfortutils64, me.pulandres.libfoxfortutils64, me.pulandres.libfoxfortutils64e, net.kenhtao.libfoxfortutils64, sileoturkiye.libfoxfortutils64, sileoturkiye.libfoxfortutils64e, com.badr.libfoxfortutils, com.hackyouriphone.mgspoof, org.mr.mgspoof, com.34306.libfoxfortutils
+Description: library for Foxfort tweaks
+Maintainer: FoxfortMobile
+Author: FoxfortMobile
+Section: Development
+Tag: role::developer
+Architecture: iphoneos-arm64
+Version: 1.4.0
+Installed-Size: 1096
+SileoDepiction: https://doplx.github.io/twx
+Depictions: https://doplx.github.io/twx
+filename: debs/com.foxfort.libfoxfortutils_1.4.0_iphoneos-arm64.deb
+
+Package: com.nahtedetihw.musicalert
+Name: MusicAlert Ios16مظهر تنبيهات الموسيقىل
+Architecture: iphoneos-arm64
+Description: Apple Music queue/loved alerts like on iOS 16.4!ios16 مظهر للموسيقى
+Maintainer: Ethan Whited
+Author: Ethan Whited
+Section: Tweaks
+Depends:
+Version: 1.2
+Installed-Size: 172
+SileoDepiction: https://doplx.github.io/twx
+Depictions: https://doplx.github.io/twx
+filename: debs/com.nahtedetihw.musicalert_1.2_iphoneos-arm64.deb
+
+Package: com.foxfort.foxforttools
+Name: FoxFort Tools
+Depends: mobilesubstrate, com.foxfort.libfoxfortutils (>= 1.4.0)
+Conflicts: com.hackyouriphone.foxforthack, com.pulandres.foxforthack, org.cydia.kiimo.foxforthack, ru.rejail.foxforthack, me.pulandres.foxforttools, co.xrepo.appletweakjailbreak.foxforttools, net.kenhtao.foxforttools, sileoturkiye.foxforttools, com.yourepo.mohadu31.foxforttools, org.cydia.kiimo.foxforttools, com.hackyouriphone.foxforttools, com.hackyouriphone.mgspoof, org.mr.mgspoof, com.34306.foxforttools
+Description: Helper tools for Foxfort tweaks
+Maintainer: FoxfortMobile
+Author: FoxfortMobile
+Section: Development
+Tag: role::developer
+Architecture: iphoneos-arm64
+Version: 1.4.0
+Installed-Size: 1600
+SileoDepiction: https://doplx.github.io/twx
+Depictions: https://doplx.github.io/twx
+filename: debs/com.foxfort.foxforttools_1.4.0_iphoneos-arm64.deb
+
+Package: com.umarbutt.hacksoccer
+Name: Soccer Stars LongAim⭐️إشارة طويلة
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Description: LongAimإشارةطويلة
+Maintainer: @UmarBuTt
+Author: @UmarBuTt
+Section: Games(Hack)
+Version: 32.0.1-7+debug
+Installed-Size: 744
+SileoDepiction: https://doplx.github.io/twx
+Depictions: https://doplx.github.io/twx
+filename: debs/com.umarbutt.hacksoccer_32.0.1-7+debug_iphoneos-arm64.deb
+
+Package: com.junesiphone.applibraryplus
+Name: AppLibraryPlusتعديل مظهر المكتبة
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate
+Conflicts:
+Description: CustomizeApplibraryتعديل مظهر المكتبة
+Maintainer: June <junesgraphics@gmail.com>
+Author: JunesiPhone <junesgraphics@gmail.com>
+Section: Tweaks
+Version: 0.1
+Installed-Size: 616
+SileoDepiction: https://doplx.github.io/twx
+Depictions: https://doplx.github.io/twx
+filename: debs/com.junesiphone.applibraryplus_0.1_iphoneos-arm64.deb
+
+Package: xyz.cypwn.storeswitcher2
+Maintainer: CyPwn
+Name: StoreSwitcher 2التبديل بين حسابات  الأبستور
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Description: InAppstore Account Switcherتبديل الحسابات داخل الأبستور
+Depends: firmware (>= 11), mobilesubstrate
+Conflicts: com.orikad.storeswitcher
+Author: Ori Kadosh
+Section: Tweaks
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/storeswitcher.png
+SileoDepiction: https://doplx.github.io/twx
+Depictions: https://doplx.github.io/twx
+filename: debs/xyz.cypwn.storeswitcher2_1.0.3_iphoneos-arm64.deb
+
+Package: com.squ1dd13.cleo
+Name: GTA-SA CLEO⭐️هاك سليو لعبة سان اندريس
+Depends: mobilesubstrate
+Provides: com.squ1dd13.csios, com.squ1dd13.zinc
+Conflicts: com.squ1dd13.csios, com.squ1dd13.zinc, com.brend0n.gtasa60fps
+Replaces: com.squ1dd13.csios, com.squ1dd13.zinc
+Version: 2.6.0
+Architecture: iphoneos-arm64
+Description: GTA SA CleoModMenuهاك قراند سان اندريس
+Maintainer: squ1dd13
+Author: squ1dd13
+Section: Games(Hack)
+SileoDepiction: https://doplx.github.io/twx
+Depictions: https://doplx.github.io/twx
+filename: debs/com.squ1dd13.cleo_2.6.0_iphoneos-arm64.deb
+
+Package: com.3bod.syria
+Name: ClassicoNoAdsتطبيق الكلاسيكو بدون إعلانات
+Author: @3bod_syr
+Description: 3bod_Syr ClassicoNoAds/حذف الإعلانات
+Depends: mobilesubstrate
+Maintainer: @3bod_syr
+Architecture: iphoneos-arm64
+Section: Apps(Hack)
+Version: 0.0.1-1+debug
+Installed-Size: 104
+SileoDepiction: https://doplx.github.io/twx
+Depictions: https://doplx.github.io/twx
+filename: debs/com.3bod.syria_0.0.1-1+debug_iphoneos-arm64.deb
+
+Package: iOSGods.com.ScoreHero2
+Name: Score! Hero 2 Cheats⭐️هاك لعبة
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Description: Score!-Hero_2هاك لعبة سكور⭐️هيرو2
+Maintainer: iOSGods.com
+Author: Zahir
+Section: Games(Hack)
+Homepage: https://iosgods.com
+Version: 2.81+iOSGods.com
+Installed-Size: 5680
+SileoDepiction: https://doplx.github.io/twx
+Depictions: https://doplx.github.io/twx
+filename: debs/iOSGods.com.ScoreHero2_2.81+iOSGods.com_iphoneos-arm64.deb
+
+Package: com.rob311.sorrylowbattery
+Name: SorryLowBatteryتزوير نسبة شحن الهاتف
+Depends: mobilesubstrate, firmware (>= 7.0)
+Description: Fake battery percentageتزوير نسبة شحن الهاتف 
+Maintainer: rob311 <rob@rob311.com>
+Author: rob311 <rob@rob311.com>
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.6
+Installed-Size: 1868
+SileoDepiction: https://doplx.github.io/twx
+Depictions: https://doplx.github.io/twx
+filename: debs/com.rob311.sorrylowbattery_1.6_iphoneos-arm64.deb
+
 Package: xyz.cypwn.dopesaily
 Maintainer: Cypwn
 Name: SailyDopamineتطبيق
@@ -86,7 +460,7 @@ Filename: debs/jp.akusio.backgrounderaction15_0.1.0_iphoneos-arm64.deb
 
 Package: ellekit
 Name: ElleKitأداة مهمة لحقن أدوات جلبريك دوبامين
-Version: 0.4.5
+Version: 0.5.3
 Architecture: iphoneos-arm64
 Maintainer: Dhinak G <dhinak@dhinak.net>
 Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate
@@ -100,7 +474,7 @@ Description: ElleKit tweak injection libraries and loaderحقن أدوات جل�
  ElleKit tweak injection libraries and loader. Currently in beta.
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/ellekit_0.4.5_iphoneos-arm64.deb
+Filename: debs/ellekit_0.5.3_iphoneos-arm64.deb
 
 Name: DenyPhotoAlbumsإخفاء ألبومات الصور
 Package: com.cydiageek.denyphotoalbums
@@ -722,12 +1096,12 @@ Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
 Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets
 Icon: https://i.postimg.cc/ry1s499R/icon-3x.png
-Architecture: iphoneos-arm
-Version: 2.0.2
+Architecture: iphoneos-arm64
+Version: 2.0.4
 Installed-Size: 540
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/com.sop.settingsrevamp_2.0.2_iphoneos-arm.deb
+Filename: debs/com.sop.settingsrevamp_2.0.4_iphoneos-arm64.deb
 
 Package: com.tigisoftware.filza64bit
 Name: Filza File Manager 64-bit🃏مدير الملفات
@@ -1029,22 +1403,21 @@ SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
 Filename: debs/ws.hbang.newterm3_3.0~beta1_iphoneos-arm64.deb
 
-Package: zp.preferenceloader
 Name: PreferenceLoaderأداة مهمة لتفعيل الأدوات
-Depends: mobilesubstrate
-Architecture: iphoneos-arm64
 Description: A lightweight and modern alternativeتفعيل ادوات الجلبريك
-Maintainer: ArtikusHG,zp
-Author: ArtikusHG,zp
 Section: Tweaks
+Package: preferenceloader.rootless
+Version: 2.2.6.6
+Maintainer: zp,Dustin Howett
+Author: Dustin Howett
+Architecture: iphoneos-arm64
+Conflicts: preferenceloader, preferenceloader.rootless.top
 Replaces: preferenceloader
 Provides: preferenceloader (= 2.2.6)
-Conflicts: preferenceloader
-Version: 1.0.18
-Installed-Size: 256
+Installed-Size: 337
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-Filename: debs/zp.preferenceloader_1.0.18_iphoneos-arm64.deb
+Filename: debs/preferenceloader.rootless_2.2.6.6_iphoneos-arm64.deb
 
 Package: netskao.smallbanners-rootless
 Version: 1.2-5
