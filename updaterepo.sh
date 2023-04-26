@@ -4,13 +4,13 @@ if [[ "$OSTYPE" == "linux"* ]]; then # Linux usage of repo.me
     
     rm Packages Packages.xz Packages.gz Packages.bz2 Packages.zst Release 2> /dev/null
     
-    apt-ftparchive packages ./debians > Packages
+    apt-ftparchive packages ./debs > Packages
     gzip -c9 Packages > Packages.gz
     xz -c9 Packages > Packages.xz
     zstd -c19 Packages > Packages.zst
     bzip2 -c9 Packages > Packages.bz2
     
-    apt-ftparchive release -c ./assets/repo/repo.conf . > Release
+    apt-ftparchive release -c ./repo.conf . > Release
     
     echo "Repository Updated, thanks for using repo.me!"
     elif [[ "$(uname)" == Darwin ]] && [[ "$(uname -p)" == i386 ]]; then # macOS usage of repo.me
@@ -31,13 +31,13 @@ if [[ "$OSTYPE" == "linux"* ]]; then # Linux usage of repo.me
     
     rm {Packages{,.xz,.gz,.bz2,.zst},Release{,.gpg}} 2> /dev/null
     
-    ./apt-ftparchive packages ./debians > Packages
+    ./apt-ftparchive packages ./debs > Packages
     gzip -c9 Packages > Packages.gz
     xz -c9 Packages > Packages.xz
     zstd -c19 Packages > Packages.zst
     bzip2 -c9 Packages > Packages.bz2
     
-    ./apt-ftparchive release -c ./assets/repo/repo.conf . > Release
+    ./apt-ftparchive release -c ./repo.conf . > Release
     
     echo "Repository Updated, thanks for using repo.me!"
     elif [[ "$(uname -r)" == *Microsoft ]]; then # WSL 1 usage of repo.me
@@ -45,13 +45,13 @@ if [[ "$OSTYPE" == "linux"* ]]; then # Linux usage of repo.me
     
     rm Packages Packages.xz Packages.gz Packages.bz2 Packages.zst Release 2> /dev/null
     
-    apt-ftparchive packages ./debians > Packages
+    apt-ftparchive packages ./debs > Packages
     gzip -c9 Packages > Packages.gz
     xz -c9 Packages > Packages.xz
     zstd -c19 Packages > Packages.zst
     bzip2 -c9 Packages > Packages.bz2
     
-    apt-ftparchive release -c ./assets/repo/repo.conf . > Release
+    apt-ftparchive release -c ./repo.conf . > Release
     
     echo "Repository Updated, thanks for using repo.me!"
     elif [[ "$(uname -r)" == *microsoft-standard ]]; then # WSL 2 usage of repo.me
@@ -59,13 +59,13 @@ if [[ "$OSTYPE" == "linux"* ]]; then # Linux usage of repo.me
     
     rm Packages Packages.xz Packages.gz Packages.bz2 Packages.zst Release 2> /dev/null
     
-    apt-ftparchive packages ./debians > Packages
+    apt-ftparchive packages ./debs > Packages
     gzip -c9 Packages > Packages.gz
     xz -c9 Packages > Packages.xz
     zstd -c19 Packages > Packages.zst
     bzip2 -c9 Packages > Packages.bz2
     
-    apt-ftparchive release -c ./assets/repo/repo.conf . > Release
+    apt-ftparchive release -c ./repo.conf . > Release
     
     echo "Repository Updated, thanks for using repo.me!"
     elif [[ "$(uname)" == Darwin ]] && [[ "$(uname -p)" != i386 ]]; then # iOS/iPadOS usage of repo.me
@@ -77,13 +77,13 @@ if [[ "$OSTYPE" == "linux"* ]]; then # Linux usage of repo.me
 
     rm {Packages{,.xz,.gz,.bz2,.zst},Release{,.gpg}} 2> /dev/null
 
-    apt-ftparchive packages ./debians > Packages
+    apt-ftparchive packages ./debs > Packages
     gzip -c9 Packages > Packages.gz
     xz -c9 Packages > Packages.xz
     zstd -c19 Packages > Packages.zst
     bzip2 -c9 Packages > Packages.bz2
 
-    apt-ftparchive release -c ./assets/repo/repo.conf . > Release
+    apt-ftparchive release -c ./repo.conf . > Release
 
     echo "Repository Updated, thanks for using repo.me!"
 else
