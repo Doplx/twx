@@ -1271,7 +1271,7 @@ Maintainer: jjolano
 Author: jjolano
 Section: Development
 Tag: role::developer
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Version: 1.0.15
 Installed-Size: 284
 SileoDepiction: https://doplx.github.io/twx
@@ -1286,7 +1286,7 @@ Maintainer: jjolano
 Author: jjolano
 Section: Development
 Tag: role::developer
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Version: 1.0.8
 Installed-Size: 280
 SileoDepiction: https://doplx.github.io/twx
@@ -1301,7 +1301,7 @@ Maintainer: jjolano
 Author: jjolano
 Section: Development
 Tag: role::developer
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Version: 1.0.1
 Installed-Size: 280
 SileoDepiction: https://doplx.github.io/twx
@@ -1312,7 +1312,7 @@ Package: me.jjolano.hkmodule.dobby
 Name: HookKit Module (Dobby)
 Pre-Depends: me.jjolano.fmwk.hookkit
 Depends: firmware (>= 14.0)
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Description: This module provides Dobby library support for HookKit Framework.
 Maintainer: jjolano
 Author: jjolano
@@ -1332,7 +1332,7 @@ Description: This module provides the ElleKit API for HookKit Framework.
 Maintainer: jjolano
 Author: jjolano
 Section: HookKit (Modules)
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Version: 1.0.7
 Installed-Size: 188
 SileoDepiction: https://doplx.github.io/twx
@@ -1346,7 +1346,7 @@ Description: This module provides fishhook library support for HookKit Framework
 Maintainer: jjolano
 Author: jjolano
 Section: HookKit (Modules)
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Version: 1.0.8
 Installed-Size: 288
 SileoDepiction: https://doplx.github.io/twx
@@ -1361,7 +1361,7 @@ Description: This module provides the Cydia Substrate API for HookKit Framework.
 Maintainer: jjolano
 Author: jjolano
 Section: HookKit (Modules)
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Version: 1.0.8
 Installed-Size: 284
 SileoDepiction: https://doplx.github.io/twx
