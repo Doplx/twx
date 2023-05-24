@@ -260,8 +260,6 @@ Tags: compatible_min::ios13.0, compatible_max::ios16.4
 Author: ETHN <ethanwhited2208@gmail.com>
 Maintainer: ETHN <ethanwhited2208@gmail.com>
 Tag: role::enduser
-SomeOtherEntryToControl: True
-SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
 filename: ./debs/com.nahtedetihw.musicartworksave-rootless.deb
 MD5: d8fe841e35f98756836ed07b2f5de21c
