@@ -11,6 +11,7 @@ Author: Elias Limneos <limneoselias@gmail.com>
 Section: Tweaks
 MainLibMD5: 2bd89895e747af47790b0eb2f6bac296
 Version: 5.0-5
+Size: 519
 Installed-Size: 5960
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
@@ -45,6 +46,7 @@ Depends: firmware (>= 14)
 Conflicts: com.packetfahrer.swipetodeletecontact, org.thebigboss.elite
 Architecture: iphoneos-arm64
 Installed-Size: 520
+Size: 12
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
 filename: ./debs/5456.deb
@@ -113,6 +115,7 @@ Section: Tweaks
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate
 Installed-Size: 136
+Size: 12
 Author: Jax Roth
 Maintainer: Jax Roth
 Description: Allows “unsupported” charging accessoriesدعم وصلات الشحن المزورة
