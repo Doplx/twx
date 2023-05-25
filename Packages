@@ -14,7 +14,7 @@ Version: 5.0-5
 Installed-Size: 5960
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/net.limneos.audiorecorderxs-rootless_5.0-5_iphoneos-arm64.deb
+filename: ./debs/net.limneos.audiorecorderxs-rootless_5.0-5_iphoneos-arm64.deb
 MD5: 2b9ab407876254413a35771f19c9ef4c
 SHA1: 39aad8b93f7ab686c8056b01729a9e88fc6a93e4
 SHA256: cbfbeb01c65c691cf65bc3bdbce47a370bdb879b14676c2df82b6f29c6f2773a
@@ -29,7 +29,7 @@ Maintainer: ItsTNT <hello@tnttaol.in>
 Description: Same icons, same style, just darker.ثيم داركير
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/in.tnttaol.darkerlite_2.9.1_iphoneos-arm64.deb
+filename: ./debs/in.tnttaol.darkerlite_2.9.1_iphoneos-arm64.deb
 MD5: c2543e7a383ee9534c2efcb8c5c94700
 SHA1: e67ddf3a3d5eaec53e67e21b4626d34542fafc79
 SHA256: 05aa9d26f20ded1d0f2b4ee05853ec9d6bcf9708eb9d3429426a39ec1a449fd0
@@ -48,7 +48,7 @@ Installed-Size: 520
 Size: 12
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/5456.deb
+filename: ./debs/5456.deb
 MD5: d1dad6c5145a101f236aa01fe9047516
 SHA1: cfba315e81bb22dd9a11b7ed9d3759624dabeca0
 SHA256: e3183a410f7dc00d8a9f3a72f4b8463daefbd95944f5db23fbb600e299682c46
@@ -66,7 +66,7 @@ Version: 1.0
 Installed-Size: 192
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/com.p2kdev.snapper2cc_1.0_iphoneos-arm64.deb
+filename: ./debs/com.p2kdev.snapper2cc_1.0_iphoneos-arm64.deb
 MD5: 78a1ceb255dbecb439fbb09cd2b83278
 SHA1: e4ef1f85a263936dd09d090938b13a15653e1e01
 SHA256: 1ef885ac5530ef1abef317d722de4a242e4e14c67d02763ddf015a839b035e4d
@@ -83,7 +83,7 @@ Version: 1.1
 Installed-Size: 136
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/xyz.cypwn.icleanerprocrack_1.1_iphoneos-arm64.deb
+filename: ./debs/xyz.cypwn.icleanerprocrack_1.1_iphoneos-arm64.deb
 MD5: fdb6e739acfe30d84a1f9a39293b3a24
 SHA1: 2627aea11f48f0ee11f80c4cc7ad0d97b7ac75d8
 SHA256: 06dae7c954b59643b555658988854b504c8920ae8ef433b92319e25de9afa62b
@@ -102,7 +102,7 @@ Replaces: org.altervista.exilecom.icleaner
 Icon: file:///Applications/iCleaner.app/Icon.png
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/com.exile90.icleanerpro_7.10.0_iphoneos-arm64.deb
+filename: ./debs/com.exile90.icleanerpro_7.10.0_iphoneos-arm64.deb
 MD5: 6d52edf547d85ea5713e913d6293f3ba
 SHA1: d9fb1af260401829b101a3a3214698919d0dc1f6
 SHA256: eb1137e9ccf0d9c0b985011a42d969b214dccde19977c9398e300da50ae6a083
@@ -119,7 +119,7 @@ Maintainer: Jax Roth
 Description: Allows “unsupported” charging accessoriesدعم وصلات الشحن المزورة
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/com.jaxroth.supporttheunsupportedrevived_1.0.0_iphoneos-arm64.deb
+filename: ./debs/com.jaxroth.supporttheunsupportedrevived_1.0.0_iphoneos-arm64.deb
 MD5: 24ff575a67dd7ad8afde22d99cdfba6a
 SHA1: a93343d9115c874f0efb9819f9f7ef06636bfb74
 SHA256: 763f119df975ea2283144fc16e926494261078b8832ee04f8b0a23c8c0a971bd
@@ -138,7 +138,7 @@ dev: extbh
 Tag: purpose::extension
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/jodelemproved_1.1.7_iphoneos-arm64.deb
+filename: ./debs/jodelemproved_1.1.7_iphoneos-arm64.deb
 MD5: 57ab29b27ea0d3c5f85d98cc15de5c56
 SHA1: d7fff3f6b636f212c5058f86b136f0358dda1cea
 SHA256: de36af4de3df9cb8fe46a635e27ef2930e988b98af216bdebf3c1cba9902da07
@@ -157,7 +157,7 @@ Author: Jonathan Winger-lang
 Icon: https://media.havoc.app/620537d57c5e627af05611b6
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/xyz.cypwn.snapper2rootless_2.6.0_iphoneos-arm64.deb
+filename: ./debs/xyz.cypwn.snapper2rootless_2.6.0_iphoneos-arm64.deb
 MD5: ee07d88676fc654e1978666987dc3762
 SHA1: 1624b411d1cddeb95a6c3f1b84fdc90122ad6048
 SHA256: 260ff022cf44836d75d2e8b2b3d6d95e269c67933171a3a91135b350ab564786
@@ -174,7 +174,7 @@ Author: Netskao
 Description: Quickly switch the type of cellular data 2/3/4/5Gالتبديل بين الفورجي والعكس من مركز التحكم
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/4319.deb
+filename: ./debs/4319.deb
 MD5: 2389bdef1f11a8c742a73cbe3d31c449
 SHA1: 5f76e97e0a3a0c9be5c1703665050228339ac766
 SHA256: c39c48af7d836ba52bab176052945435cf4926e76119749e67f95a7def4558a8
@@ -191,7 +191,7 @@ Author: Netskao
 Description: Apps Manager Crack🛠كراك مدير التطبيقات
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/netskao.appsmanagercrack_1.1-4_iphoneos-arm64.deb
+filename: ./debs/netskao.appsmanagercrack_1.1-4_iphoneos-arm64.deb
 MD5: 6627339cc82e2d2354fe7b15a1a21471
 SHA1: f7c4a8a227f23b09f2c094467ea5512da968c74c
 SHA256: bd690970e3d97837d9f1b11fe73b7c698aefa2d755dc2f23eb37d0dd566ccfee
@@ -208,7 +208,7 @@ Conflicts: com.iarrays.libiarrays1, com.iarrays.libiarrays
 Architecture: iphoneos-arm64
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
-filename: debs/5461.deb
+filename: ./debs/5461.deb
 MD5: 8d715dadae71be47e2b089ef432773e9
 SHA1: 82cc15c9368bc73289e9a5fd7e66ee2faea00090
 SHA256: a39b3acd3614833c12d9b4805ee33a443ef7e67f3dba9afa350c17ef3b20e90e
@@ -1471,9 +1471,9 @@ Installed-Size: 540
 SileoDepiction: https://doplx.github.io/twx
 Depictions: https://doplx.github.io/twx
 Filename: ./debs/com.sop.settingsrevamp_2.0.4_iphoneos-arm64.deb
-MD5: 
-SHA1: 
-SHA256: 
+MD5: a5649bd0b16499e5facf0feb141346c1
+SHA1: 2af5c65372378f57193af0a3285c373f944a9168
+SHA256: 19c665d3927bdc06e1606832f726024814cd82a66cd9ef0a22024b45487d371c
 
 Package: com.tigisoftware.filza64bit
 Name: Filza File Manager 64-bit🃏مدير الملفات
