@@ -1,11 +1,19 @@
-Origin: Doplx
+Origin: Doplx Repo
 Label: Doplx Repo
 Suite: stable
-Version: 1.1
+Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm64
 Components: main
-Description: Doplx Repository
-
+Description: Doplx Tweak For Dopamine
+MD5Sum:
+ 3f1abaed356101826bde5c0eada3e61f 3313 Packages
+ 4b350727fef20577e61eaa2684e0e8e4 1352 Packages.bz2
+SHA1:
+ 86fac96cfc52ff2abe2930f28350eac0a680abdf 3313 Packages
+ a217092e1d7f022487f00ac002b2891525609fd4 1352 Packages.bz2
+SHA256:
+ 0978108b745c6986db35dfe809f37f980866f708ae2f9b390baea629ea088127 3313 Packages
+ a30341924413c4de2f666d45cc1e9162e21593965535b565c32e6cb2661e739d 1352 Packages.bz2
 
 
