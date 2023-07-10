@@ -1,4 +1,4 @@
-echo generating files at $(pwd)
+echo generating files at ./debs $(pwd)
 bzip2 -k ./Packages
 xz -k ./Packages
 zstd -q -c19 Packages > Packages.zst
